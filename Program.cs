@@ -1,24 +1,21 @@
 ﻿using System;
 
-namespace UC2_CalculateEmployeeWage
+namespace Day4_UC3_Onwards
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int IS_FULL_TIME = 1;
-            int EMP_RATE_PER_HOUR = 20;
-            //variables
-            int empHrs = 0;
-            int empWage = 0;
-            Random random = new Random();
-            int empCheck = random.Next(0, 2);
-            if (empCheck == IS_FULL_TIME)
-                empHrs = 8;
-            //else
-               // empHrs = 0;
-            empWage = empHrs * EMP_RATE_PER_HOUR;
-            Console.WriteLine("Emp Wage: "+empWage);
+            //UC3_PartTimeEmpWage.PartTimeEmpWage();
+            //UC4_EmpWageUsingSwitch.EmpWageUsingSwitch();
+             UC5_CalculateWagesFor20DaysInMonth.CalculateWagesFor20DaysInMonth();
+            //UC6_CalculateWageTill100HrsOr20IsReached.CalculateWageTill100HrsOr20IsReached();
+            //UC7_ComputeEmpWageUsingClassMethod.ComputeEmpWage();
+            //UC8 starts
+            //UC8_ComputeEmpWageForMultipleCompanies.ComputeEmpWage("DMart", 20, 2, 10);
+            //UC8_ComputeEmpWageForMultipleCompanies.ComputeEmpWage("Reliance", 10, 4, 20);
+            //UC8 Ends
+
             Console.ReadKey();
         }
     }
