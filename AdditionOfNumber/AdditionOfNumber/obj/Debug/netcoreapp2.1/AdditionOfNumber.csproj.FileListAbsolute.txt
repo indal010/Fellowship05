@@ -1,0 +1,11 @@
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp2.1\AdditionOfNumber.deps.json
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp2.1\AdditionOfNumber.runtimeconfig.json
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp2.1\AdditionOfNumber.runtimeconfig.dev.json
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp2.1\AdditionOfNumber.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\bin\Debug\netcoreapp2.1\AdditionOfNumber.pdb
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp2.1\AdditionOfNumber.csprojAssemblyReference.cache
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp2.1\AdditionOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp2.1\AdditionOfNumber.AssemblyInfoInputs.cache
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp2.1\AdditionOfNumber.AssemblyInfo.cs
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp2.1\AdditionOfNumber.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day10\AdditionOfNumber\AdditionOfNumber\obj\Debug\netcoreapp2.1\AdditionOfNumber.pdb
