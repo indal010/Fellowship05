@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionDemoProject", "ReflectionDemoProject\ReflectionDemoProject.csproj", "{8907534E-F3E0-442D-ADD7-8B364BAB2463}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnnotationsDemo", "AnnotationsDemo\AnnotationsDemo.csproj", "{952694D4-9499-4F24-AACC-8091423E1F88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoodAnalyserAppWithCore", "MoodAnalyserAppWithCore\MoodAnalyserAppWithCore.csproj", "{71C6A3BD-F592-4C1D-9509-C1E951E49DE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionDemoProjectLive1", "ReflectionDemoProjectLive1\ReflectionDemoProjectLive1.csproj", "{617C0A70-F937-4AF5-878C-D54D7B2626AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoodAnalyserMSTestWithCore", "MoodAnalyserMSTestWithCore\MoodAnalyserMSTestWithCore.csproj", "{A213B950-7433-4B8A-B8F6-612B4C56E1DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollection", "GarbageCollection\GarbageCollection.csproj", "{9B4A5C27-9132-427E-BC98-C31596603053}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionDemoProjectLive2", "ReflectionDemoProjectLive2\ReflectionDemoProjectLive2.csproj", "{90AFF72E-C418-42AB-8B7B-89E0B4D20BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyserAppWithCoreLive1", "MoodAnalyserAppWithCoreLive1\MoodAnalyserAppWithCoreLive1.csproj", "{AC50FDF1-3212-4686-A8F0-77515E152669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyserMSTestWithCoreLive1", "MoodAnalyserMSTestWithCoreLive1\MoodAnalyserMSTestWithCoreLive1.csproj", "{105F224C-5262-4C4E-BF7F-D7EA61DCC79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyserAppWithCoreLive2", "MoodAnalyserAppWithCoreLive2\MoodAnalyserAppWithCoreLive2.csproj", "{5125AA15-1207-4B76-84B8-E0416C6DD767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodAnalyserMSTestAppWithCoreLive2", "MoodAnalyserMSTestAppWithCoreLive2\MoodAnalyserMSTestAppWithCoreLive2.csproj", "{2682EB9C-AFBC-42C5-B718-A2BB9C2C6115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8907534E-F3E0-442D-ADD7-8B364BAB2463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8907534E-F3E0-442D-ADD7-8B364BAB2463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8907534E-F3E0-442D-ADD7-8B364BAB2463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8907534E-F3E0-442D-ADD7-8B364BAB2463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952694D4-9499-4F24-AACC-8091423E1F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952694D4-9499-4F24-AACC-8091423E1F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952694D4-9499-4F24-AACC-8091423E1F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952694D4-9499-4F24-AACC-8091423E1F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C6A3BD-F592-4C1D-9509-C1E951E49DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C6A3BD-F592-4C1D-9509-C1E951E49DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C6A3BD-F592-4C1D-9509-C1E951E49DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C6A3BD-F592-4C1D-9509-C1E951E49DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617C0A70-F937-4AF5-878C-D54D7B2626AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617C0A70-F937-4AF5-878C-D54D7B2626AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617C0A70-F937-4AF5-878C-D54D7B2626AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617C0A70-F937-4AF5-878C-D54D7B2626AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A213B950-7433-4B8A-B8F6-612B4C56E1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A213B950-7433-4B8A-B8F6-612B4C56E1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A213B950-7433-4B8A-B8F6-612B4C56E1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A213B950-7433-4B8A-B8F6-612B4C56E1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4A5C27-9132-427E-BC98-C31596603053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4A5C27-9132-427E-BC98-C31596603053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4A5C27-9132-427E-BC98-C31596603053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4A5C27-9132-427E-BC98-C31596603053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90AFF72E-C418-42AB-8B7B-89E0B4D20BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AFF72E-C418-42AB-8B7B-89E0B4D20BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AFF72E-C418-42AB-8B7B-89E0B4D20BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AFF72E-C418-42AB-8B7B-89E0B4D20BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC50FDF1-3212-4686-A8F0-77515E152669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC50FDF1-3212-4686-A8F0-77515E152669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC50FDF1-3212-4686-A8F0-77515E152669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC50FDF1-3212-4686-A8F0-77515E152669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105F224C-5262-4C4E-BF7F-D7EA61DCC79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105F224C-5262-4C4E-BF7F-D7EA61DCC79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105F224C-5262-4C4E-BF7F-D7EA61DCC79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105F224C-5262-4C4E-BF7F-D7EA61DCC79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5125AA15-1207-4B76-84B8-E0416C6DD767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5125AA15-1207-4B76-84B8-E0416C6DD767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5125AA15-1207-4B76-84B8-E0416C6DD767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5125AA15-1207-4B76-84B8-E0416C6DD767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2682EB9C-AFBC-42C5-B718-A2BB9C2C6115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2682EB9C-AFBC-42C5-B718-A2BB9C2C6115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2682EB9C-AFBC-42C5-B718-A2BB9C2C6115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2682EB9C-AFBC-42C5-B718-A2BB9C2C6115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDAFB9D5-984D-4926-8EA1-8BC0109535FE}
+	EndGlobalSection
+EndGlobal

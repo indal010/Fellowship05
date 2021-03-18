@@ -1,0 +1,11 @@
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp2.1\ReflectionDemoProject.deps.json
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp2.1\ReflectionDemoProject.runtimeconfig.json
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp2.1\ReflectionDemoProject.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp2.1\ReflectionDemoProject.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\bin\Debug\netcoreapp2.1\ReflectionDemoProject.pdb
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp2.1\ReflectionDemoProject.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp2.1\ReflectionDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp2.1\ReflectionDemoProject.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp2.1\ReflectionDemoProject.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp2.1\ReflectionDemoProject.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\ReflectionDemoProject\obj\Debug\netcoreapp2.1\ReflectionDemoProject.pdb

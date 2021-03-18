@@ -1,0 +1,17 @@
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.deps.json
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.runtimeconfig.json
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.pdb
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\MoodAnalyserAppWithCoreLive1.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\bin\Debug\netcoreapp2.1\MoodAnalyserAppWithCoreLive1.pdb
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.csproj.CopyComplete
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.dll
+C:\Users\inyadav\source\repos\ReflectionDemoProject\MoodAnalyserMSTestWithCoreLive1\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCoreLive1.pdb
