@@ -1,0 +1,11 @@
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\bin\Debug\netcoreapp2.1\Day_13_CollectionsDemo.deps.json
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\bin\Debug\netcoreapp2.1\Day_13_CollectionsDemo.runtimeconfig.json
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\bin\Debug\netcoreapp2.1\Day_13_CollectionsDemo.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\bin\Debug\netcoreapp2.1\Day_13_CollectionsDemo.dll
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\bin\Debug\netcoreapp2.1\Day_13_CollectionsDemo.pdb
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\obj\Debug\netcoreapp2.1\Day_13_CollectionsDemo.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\obj\Debug\netcoreapp2.1\Day_13_CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\obj\Debug\netcoreapp2.1\Day_13_CollectionsDemo.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\obj\Debug\netcoreapp2.1\Day_13_CollectionsDemo.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\obj\Debug\netcoreapp2.1\Day_13_CollectionsDemo.dll
+C:\Users\inyadav\source\repos\Day_13_CollectionsDemo\Day_13_CollectionsDemo\obj\Debug\netcoreapp2.1\Day_13_CollectionsDemo.pdb
