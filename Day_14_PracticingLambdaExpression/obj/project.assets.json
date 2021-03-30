@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inyadav\\source\\repos\\Day_13_CollectionsDemo\\Day_13_CollectionsDemo\\Day_13_CollectionsDemo.csproj",
-      "projectName": "Day_13_CollectionsDemo",
-      "projectPath": "C:\\Users\\inyadav\\source\\repos\\Day_13_CollectionsDemo\\Day_13_CollectionsDemo\\Day_13_CollectionsDemo.csproj",
+      "projectUniqueName": "C:\\Users\\inyadav\\source\\repos\\Day_14_PracticingLambdaExpression\\Day_14_PracticingLambdaExpression\\Day_14_PracticingLambdaExpression.csproj",
+      "projectName": "Day_14_PracticingLambdaExpression",
+      "projectPath": "C:\\Users\\inyadav\\source\\repos\\Day_14_PracticingLambdaExpression\\Day_14_PracticingLambdaExpression\\Day_14_PracticingLambdaExpression.csproj",
       "packagesPath": "C:\\Users\\inyadav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inyadav\\source\\repos\\Day_13_CollectionsDemo\\Day_13_CollectionsDemo\\obj\\",
+      "outputPath": "C:\\Users\\inyadav\\source\\repos\\Day_14_PracticingLambdaExpression\\Day_14_PracticingLambdaExpression\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

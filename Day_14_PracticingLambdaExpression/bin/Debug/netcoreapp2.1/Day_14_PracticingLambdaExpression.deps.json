@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Day_13_CollectionsDemo/1.0.0": {
+      "Day_14_PracticingLambdaExpression/1.0.0": {
         "runtime": {
-          "Day_13_CollectionsDemo.dll": {}
+          "Day_14_PracticingLambdaExpression.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Day_13_CollectionsDemo/1.0.0": {
+    "Day_14_PracticingLambdaExpression/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
