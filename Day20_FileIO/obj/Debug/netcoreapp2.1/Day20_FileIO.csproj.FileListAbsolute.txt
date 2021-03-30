@@ -1,0 +1,11 @@
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\bin\Debug\netcoreapp2.1\Day20_FileIO.deps.json
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\bin\Debug\netcoreapp2.1\Day20_FileIO.runtimeconfig.json
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\bin\Debug\netcoreapp2.1\Day20_FileIO.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\bin\Debug\netcoreapp2.1\Day20_FileIO.dll
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\bin\Debug\netcoreapp2.1\Day20_FileIO.pdb
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\obj\Debug\netcoreapp2.1\Day20_FileIO.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\obj\Debug\netcoreapp2.1\Day20_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\obj\Debug\netcoreapp2.1\Day20_FileIO.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\obj\Debug\netcoreapp2.1\Day20_FileIO.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\obj\Debug\netcoreapp2.1\Day20_FileIO.dll
+C:\Users\inyadav\source\repos\Day20_FileIO\Day20_FileIO\obj\Debug\netcoreapp2.1\Day20_FileIO.pdb
