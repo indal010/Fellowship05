@@ -1,0 +1,11 @@
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\bin\Debug\netcoreapp2.1\Day_15_GenericsDemo.deps.json
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\bin\Debug\netcoreapp2.1\Day_15_GenericsDemo.runtimeconfig.json
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\bin\Debug\netcoreapp2.1\Day_15_GenericsDemo.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\bin\Debug\netcoreapp2.1\Day_15_GenericsDemo.dll
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\bin\Debug\netcoreapp2.1\Day_15_GenericsDemo.pdb
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\obj\Debug\netcoreapp2.1\Day_15_GenericsDemo.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\obj\Debug\netcoreapp2.1\Day_15_GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\obj\Debug\netcoreapp2.1\Day_15_GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\obj\Debug\netcoreapp2.1\Day_15_GenericsDemo.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\obj\Debug\netcoreapp2.1\Day_15_GenericsDemo.dll
+C:\Users\inyadav\source\repos\Day_15_GenericsDemo\Day_15_GenericsDemo\obj\Debug\netcoreapp2.1\Day_15_GenericsDemo.pdb
