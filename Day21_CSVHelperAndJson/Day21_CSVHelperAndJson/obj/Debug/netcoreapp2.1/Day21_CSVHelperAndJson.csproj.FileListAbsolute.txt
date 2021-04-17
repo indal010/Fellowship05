@@ -1,0 +1,11 @@
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\bin\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.deps.json
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\bin\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.runtimeconfig.json
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\bin\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\bin\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.dll
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\obj\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\obj\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\obj\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\obj\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\bin\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.pdb
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\obj\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.dll
+C:\Users\inyadav\source\repos\Day21_CSVHelperAndJson\Day21_CSVHelperAndJson\obj\Debug\netcoreapp2.1\Day21_CSVHelperAndJson.pdb

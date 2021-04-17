@@ -1,2 +1,0 @@
-﻿Welcome to File IO demo
-This is the second line.
