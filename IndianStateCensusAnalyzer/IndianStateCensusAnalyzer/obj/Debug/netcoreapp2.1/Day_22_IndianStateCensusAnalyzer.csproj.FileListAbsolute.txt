@@ -1,0 +1,11 @@
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.deps.json
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.runtimeconfig.json
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.dll
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\bin\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.pdb
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.dll
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.pdb
+C:\Users\inyadav\source\repos\IndianStateCensusAnalyzer\IndianStateCensusAnalyzer\obj\Debug\netcoreapp2.1\Day_22_IndianStateCensusAnalyzer.csprojAssemblyReference.cache
