@@ -1,0 +1,11 @@
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\bin\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.deps.json
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\bin\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.runtimeconfig.json
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\bin\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\bin\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.dll
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\bin\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.pdb
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\obj\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\obj\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\obj\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\obj\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.dll
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\obj\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.pdb
+C:\Users\inyadav\source\repos\LinqToDataTableDemo\LinqToDataTableDemo\obj\Debug\netcoreapp2.1\Day_28_LinqToDataTableDemo.csprojAssemblyReference.cache
