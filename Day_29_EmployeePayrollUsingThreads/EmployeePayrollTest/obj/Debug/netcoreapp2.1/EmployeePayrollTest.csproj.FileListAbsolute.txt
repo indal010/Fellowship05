@@ -1,0 +1,17 @@
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\obj\Debug\netcoreapp2.1\EmployeePayrollTest.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\obj\Debug\netcoreapp2.1\EmployeePayrollTest.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\obj\Debug\netcoreapp2.1\EmployeePayrollTest.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\obj\Debug\netcoreapp2.1\EmployeePayrollTest.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\EmployeePayrollTest.deps.json
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\EmployeePayrollTest.runtimeconfig.json
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\EmployeePayrollTest.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\EmployeePayrollTest.dll
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\EmployeePayrollTest.pdb
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\Day_29_EmployeePayrollUsingThreads.dll
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\bin\Debug\netcoreapp2.1\Day_29_EmployeePayrollUsingThreads.pdb
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\obj\Debug\netcoreapp2.1\EmployeePayrollTest.csproj.CopyComplete
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\obj\Debug\netcoreapp2.1\EmployeePayrollTest.dll
+C:\Users\inyadav\source\repos\Day_29_EmployeePayrollUsingThreads\EmployeePayrollTest\obj\Debug\netcoreapp2.1\EmployeePayrollTest.pdb
