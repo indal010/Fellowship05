@@ -1,0 +1,17 @@
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\EmployeeManagement.dll
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\obj\Debug\netcoreapp2.1\RestSharpTest.csprojAssemblyReference.cache
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\obj\Debug\netcoreapp2.1\RestSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\obj\Debug\netcoreapp2.1\RestSharpTest.AssemblyInfoInputs.cache
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\obj\Debug\netcoreapp2.1\RestSharpTest.AssemblyInfo.cs
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\RestSharpTest.deps.json
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\RestSharpTest.runtimeconfig.json
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\RestSharpTest.runtimeconfig.dev.json
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\RestSharpTest.dll
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\RestSharpTest.pdb
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\bin\Debug\netcoreapp2.1\EmployeeManagement.pdb
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\obj\Debug\netcoreapp2.1\RestSharpTest.csproj.CopyComplete
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\obj\Debug\netcoreapp2.1\RestSharpTest.dll
+C:\Users\inyadav\source\repos\EmployeeManagement\RestSharpTest\obj\Debug\netcoreapp2.1\RestSharpTest.pdb
