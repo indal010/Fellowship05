@@ -1,0 +1,17 @@
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.deps.json
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.runtimeconfig.json
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.runtimeconfig.dev.json
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.pdb
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\MoodAnalyser.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\bin\Debug\netcoreapp2.1\MoodAnalyser.pdb
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.csprojAssemblyReference.cache
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.csproj.CoreCompileInputs.cache
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.AssemblyInfoInputs.cache
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.AssemblyInfo.cs
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.csproj.CopyComplete
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.dll
+C:\Users\inyadav\Terminal\Fellowship05\Fellowship05\Programs\Day11\MoodAnalyser\MoodAnalyserMSTestWithCore\obj\Debug\netcoreapp2.1\MoodAnalyserMSTestWithCore.pdb
